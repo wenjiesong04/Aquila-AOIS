@@ -2,7 +2,7 @@
 
 #### Algorithm featured in Edgerunner Aquila AOIS
 
-> The 2SDS algorithm (Scene Separation & Data Selection algorithm) is featured in this project to help with the fully automated scan and detection function. Learn more about 2SDS: [Code, Slides, Paper & so on...](https://github.com/MiracleFactory/MF-Research-2SDS)
+> The 2SDS algorithm (Scene Separation & Data Selection algorithm) is featured in this project to help with the fully automated scan and detection function. 
 
 #### How to run
 
