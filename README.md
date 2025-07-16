@@ -1,4 +1,4 @@
-# Aquila AOIS(Work in progress)
+# Aquila AOIS
 
 #### Algorithm featured in Edgerunner Aquila AOIS
 
